@@ -38,14 +38,14 @@ function App() {
             <a className="btn-help" href="H-help stray.html">幫助浪浪</a>
           </div>
           <div className="burger">
-            <img src="src/img/H_E/burger.png" />
+            <img src="src/img/H_E/burger.png" ></img>
           </div>
         </div>
-        <a href="H-intro.html"><img src="src/img/H_E/main pic.png" alt="main picture" className="main-pic" /></a>
+        <a href="H-intro.html"><img src="src/img/H_E/main pic.png" alt="main picture" className="main-pic" ></img></a>
         <div className="H-content">
           <div className="H-content-title">
             <h1>關於我們</h1>
-            <img src="img/H_E/rectangle.png" width="70" height="10" />
+            <img src="img/H_E/rectangle.png" width="70" height="10" ></img>
           </div>
           <div className="H-content-word">
             <p>「關愛流浪動物，為他們的未來創造溫暖，我們希望帶給這世界更多的愛!{'>'}.{'<'} 」</p>
@@ -53,14 +53,14 @@ function App() {
 
           <div className="about-us">
             <div className="about-xin">
-              <img src="src/img/H_E/xin.png" alt="aaaxin" />
+              <img src="src/img/H_E/xin.png" alt="aaaxin" ></img>
               <h1 className="xin">XIN</h1>
               <p>只想當顆石頭：）<br></br>
                 國北數位-XIN  IG: sinyuuu_1104<br></br>
                 好像也沒奪想放哀居？＿？</p>
             </div>
             <div className="about-xia">
-              <img src="src/img/H_E/xia.png" alt="heyjii" />
+              <img src="src/img/H_E/xia.png" alt="heyjii" ></img>
               <h1 className="xia">XIA</h1>
               <p>我要跟床結婚：0<br></br>
                 國北數位-XIA  IG: _xiaaaaaa<br></br>
