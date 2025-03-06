@@ -45,7 +45,7 @@ function App() {
         <div className="H-content">
           <div className="H-content-title">
             <h1>關於我們</h1>
-            <img src="img/H_E/rectangle.png" width="70" height="10" ></img>
+            <img src="src/img/H_E/rectangle.png" width="70" height="10" ></img>
           </div>
           <div className="H-content-word">
             <p>「關愛流浪動物，為他們的未來創造溫暖，我們希望帶給這世界更多的愛!{'>'}.{'<'} 」</p>
