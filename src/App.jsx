@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import logo from "./img/H_E/logo.png";
 
 function App() {
   const [count, setCount] = useState(0)
@@ -31,7 +32,7 @@ function App() {
       <body className="container">
         <div className="nav">
           <div className="nav-logo">
-            <a href="H-intro.html"><img src="src/img/H_E/logo.png" alt="logo" width="277" height="108" /></a>
+            <a href="H-intro.html"><img src={logo} alt="logo" width="277" height="108" /></a>
           </div>
           <div className="nav-btn">
             <a className="here-btn-about" href="H-about us.html">TOP</a>
